@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "The Legend of Sleepy Hollow",
+  "type": "text",
+  "has_page_numbers": true
+}
