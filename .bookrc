@@ -7,5 +7,6 @@
   },
   "name": "The Legend of Sleepy Hollow",
   "type": "text",
-  "has_page_numbers": true
+  "has_page_numbers": true,
+  "book_id": 704
 }
